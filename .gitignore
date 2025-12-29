@@ -1,2 +1,6 @@
 .venv/
 .cursor/
+lib/
+bin/
+__pycache__/
+pyvenv.cfg
